@@ -1,3 +1,3 @@
 # Tools Needed
 
-git, docker, docker-compose
+go, git, docker, docker-compose
